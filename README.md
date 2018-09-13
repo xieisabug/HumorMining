@@ -8,4 +8,6 @@ chinese Humor Detection or Computation based on corpus and nlp methods, 基于�
 1）建立起一个中文幽默文本语料库。  
 2）尝试完成一个句子幽默强度评分接口。  
 
-# 阶段1：中文幽默文本语料库。见spider
+# 项目流程
+
+to be finished in next 3 days..
