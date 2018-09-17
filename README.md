@@ -9,9 +9,9 @@ chinese Humor Detection or Computation based on corpus and nlp methods, 基于�
 2）尝试完成一个句子幽默强度评分接口。  
 
 # 项目流程
-语料收集：corpus_spider.py
-语料整理：collect_news.py
-相声小品语料：对话集，dialog
+语料收集：corpus_spider.py  
+语料整理：collect_news.py  
+相声小品语料：对话集，dialog  
 
 # 语料简介
 数量：6032个剧本、也称话题集, 352834条对话
